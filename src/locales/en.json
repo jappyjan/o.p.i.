@@ -1,0 +1,11 @@
+{
+  "printer": {
+    "connecting": "establishing connection...",
+    "connectionError": "Failed to connect to printer: {error}",
+    "job": {
+      "progress": "Progress: {progress}%",
+      "etaLabel": "ETA",
+      "durationLabel": "Duration"
+    }
+  }
+}
