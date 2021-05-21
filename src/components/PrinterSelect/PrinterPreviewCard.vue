@@ -25,7 +25,7 @@
         <ProgressSpinner/>
         <span>{{ t('printer.connecting') }}</span>
       </div>
-      lol
+
       <div v-if="printer">
         <div class="p-d-flex p-jc-between">
           <Knob :modelValue="Math.round(printer.progress)" readonly valueTemplate="{value}%">
